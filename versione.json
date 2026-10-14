@@ -1,0 +1,9 @@
+{
+ "versionCode": 24,
+ "versionName": "0.9",
+ "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
+ "novita": [
+  "Avviso all'avvio quando è disponibile una nuova versione, con il tasto per scaricarla",
+  "L'app si scarica dallo spazio pubblico del progetto (github.com/vetusordo/pubblico)"
+ ]
+}
