@@ -1,9 +1,10 @@
 {
- "versionCode": 25,
- "versionName": "0.9.1",
+ "versionCode": 26,
+ "versionName": "0.9.2",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Sabato Santo: corretto lo sfasamento della traduzione italiana dalle Litanie in poi (Gloria, Epistola, Vangelo, Canone…)",
-  "Indice della Messa: i rimandi biblici (es. Gen. 5; 6; 7 et 8) non compaiono più come sezioni"
+  "Sabato Santo: Benedizione del fonte e Litanie dei Santi ora con la traduzione italiana",
+  "Agnus Dei e preghiere leonine: la traduzione italiana compare sotto il latino e non più in rosso prima del testo (tutti i giorni)",
+  "Mercoledì delle Tempora di Pentecoste: aggiunta la traduzione del Gloria dopo la prima lettura"
  ]
 }
