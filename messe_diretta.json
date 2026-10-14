@@ -1,0 +1,20 @@
+{
+ "versione": 1,
+ "aggiornato": "2026-10-14",
+ "voci": [
+  {
+   "nome": "Summorum Pontificum Bergamo — chiesa di San Leonardo",
+   "descrizione": "Domenica e feste di precetto, ore 9:30 (spesso cantata)",
+   "url": "https://www.youtube.com/c/summorumpontificumbergamo",
+   "piattaforma": "YouTube",
+   "fsspx": false
+  },
+  {
+   "nome": "FSSPX Italia",
+   "descrizione": "Trasmissioni in diretta della Fraternità San Pio X",
+   "url": "https://www.youtube.com/channel/UC-2rfS6vNWzKMYrfb4t2d5Q/live",
+   "piattaforma": "YouTube",
+   "fsspx": true
+  }
+ ]
+}
