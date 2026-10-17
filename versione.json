@@ -1,9 +1,10 @@
 {
- "versionCode": 28,
- "versionName": "0.10",
+ "versionCode": 29,
+ "versionName": "0.11",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Propri diocesani: nei giorni delle feste principali di Padova, Venezia, Roma, Macerata e Tolentino compare la Messa propria come Messa in più",
-  "Calendario: sotto il giorno sono indicate le feste dei propri diocesani"
+  "Messale: in cima alla pagina si sceglie la propria diocesi tra tutte le diocesi d'Italia",
+  "Se la diocesi ha il proprio nell'app (per ora Padova, Venezia, Roma, Macerata), un interruttore lo attiva: nei giorni delle feste proprie la Messa del giorno è quella diocesana, con la possibilità di passare al calendario generale",
+  "Il Calendario segue la diocesi scelta"
  ]
 }
