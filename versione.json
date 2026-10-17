@@ -1,10 +1,8 @@
 {
- "versionCode": 29,
- "versionName": "0.11",
+ "versionCode": 30,
+ "versionName": "0.11.1",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Messale: in cima alla pagina si sceglie la propria diocesi tra tutte le diocesi d'Italia",
-  "Se la diocesi ha il proprio nell'app (per ora Padova, Venezia, Roma, Macerata), un interruttore lo attiva: nei giorni delle feste proprie la Messa del giorno è quella diocesana, con la possibilità di passare al calendario generale",
-  "Il Calendario segue la diocesi scelta"
+  "Diocesi di Macerata: il proprio si chiama ora \"Proprio di Macerata\", come la diocesi scelta"
  ]
 }
