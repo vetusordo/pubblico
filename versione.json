@@ -1,8 +1,8 @@
 {
- "versionCode": 30,
- "versionName": "0.11.1",
+ "versionCode": 31,
+ "versionName": "0.11.2",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Diocesi di Macerata: il proprio si chiama ora \"Proprio di Macerata\", come la diocesi scelta"
+  "Diocesi di Milano: avviso che il rito ambrosiano (calendario e messale) non è disponibile nell'app"
  ]
 }
