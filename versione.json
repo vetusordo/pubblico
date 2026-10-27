@@ -1,9 +1,10 @@
 {
- "versionCode": 32,
- "versionName": "0.12",
+ "versionCode": 33,
+ "versionName": "0.12.1",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Propri diocesani di tutte le diocesi del Triveneto e delle Marche (patroni principali, patroni delle città sedi di concattedrale, titolari e dedicazioni delle cattedrali)",
-  "Il pulsante della Messa propria si chiama ora \"Proprio diocesano\""
+  "Versione definitiva (non più di prova): pronta per la pubblicazione su Google Play",
+  "Aggiornata per Android 16",
+  "Nei Crediti, avvertenza: app non ufficiale"
  ]
 }
