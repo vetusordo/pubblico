@@ -13,6 +13,8 @@ Qui si trovano:
 
 L'app scarica questi elenchi quando c'è connessione, così possono essere aggiornati senza pubblicare una nuova versione.
 
+**Privacy:** l'app non raccoglie dati personali — vedi l'[informativa sulla privacy](privacy.md).
+
 **Segnalazioni e correzioni** (luoghi nuovi, orari cambiati, Messe soppresse): info@dellapittima.it
 
 Fonte iniziale dell'elenco dei luoghi: elenchi regionali di [Messainlatino.it](https://blog.messainlatino.it/elenco-messe-antiche-in-italia).
