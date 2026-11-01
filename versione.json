@@ -1,8 +1,8 @@
 {
- "versionCode": 34,
+ "versionCode": 35,
  "versionName": "0.12.2",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Nuovo logo nei Crediti: la croce raggiata dell'icona con il messale aperto"
+  "Firma definitiva dell'app: chi ha una versione precedente deve prima disinstallarla, poi installare questa (le impostazioni vanno reimpostate)"
  ]
 }
