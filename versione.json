@@ -1,8 +1,12 @@
 {
- "versionCode": 36,
- "versionName": "0.13",
+ "versionCode": 37,
+ "versionName": "0.14",
  "url": "https://github.com/vetusordo/pubblico/releases/latest/download/MissaleRomanum.apk",
  "novita": [
-  "Firma definitiva dell'app: chi ha una versione precedente deve prima disinstallarla, poi installare questa (le impostazioni vanno reimpostate)"
+  "Scelta del rito accanto alla diocesi: 1962, 1955 (riforma di Pio XII) e 1920 (rubriche di S. Pio X), ognuno con la sua Settimana Santa",
+  "I testi del 1920 e del 1955 si scaricano la prima volta che si sceglie il rito, poi funzionano senza connessione",
+  "Rito 1962: la Settimana Santa è ora quella del 1962 (riformata da Pio XII); quella antica è nel rito 1920",
+  "Proprio diocesano sempre attivo per le diocesi che lo hanno: tolto l'interruttore",
+  "Crediti: autore, avvertenza, fonti e, in fondo, le versioni"
  ]
 }
